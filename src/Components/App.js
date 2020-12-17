@@ -2,8 +2,8 @@ import React from "react";
 import Header from "./Header";
 import QuizView from "./QuizView";
 import ResultPage from "./ResultPage";
-import { BrowserRouter as Router, Switch, Route } 
-    from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+   
 
 class App extends React.Component {
     render() {
